@@ -1,0 +1,6 @@
+Method, top1, top2, top3, top5
+Resnet Single Image, 53.09, 67.49, 75.22, 83.76
+VIT Single Image, 47.85, 60.31, 69.04, 75.70
+ResNet Panorama, 48.87, 62.85, 70.97, 79.67
+ResNet Ensemble, 44.18, 58.41, 66.69, 76.85
+Boosted Ensemble ResNet, 61.12, 72.43, 80.01, 86.17
